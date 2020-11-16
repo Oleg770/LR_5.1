@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Student\Semester_1\АП\LR_5.1\Source.cpp(15,9): warning C4101: sin: неиспользованная локальная переменная
+D:\Student\Semester_1\АП\LR_5.1\Source.cpp(16,9): warning C4101: cos: неиспользованная локальная переменная
+  LR_5.1.vcxproj -> D:\Student\Semester_1\АП\LR_5.1\Debug\LR_5.1.exe
